@@ -1,0 +1,58 @@
+date,lims_ID,biocytin_percentage,biocytin_fill_20x,biocytin_fill_63x,post_patch,cell_number,brain_region,recording_duration,sm_qc,well_ID,lims_link
+171201,Rbp4-Cre_KL100;Ai14-362155.04.02.01,0.5,n,,no_seal,1,V1,,pass,Ephys_171127_03_B01_M,http://lims2/drawing_tool?image_series=652952524
+171201,Rbp4-Cre_KL100;Ai14-362155.04.02.02,0.5,y,go,nucleated,2,V1,,pass,Ephys_171127_03_B01_M,http://lims2/drawing_tool?image_series=652952524
+171201,Rbp4-Cre_KL100;Ai14-362155.04.02.03,0.5,y,,nucleated,3,V1,,pass,Ephys_171127_03_B01_M,http://lims2/drawing_tool?image_series=652952524
+171201,Rbp4-Cre_KL100;Ai14-362155.04.02.04,2,n - plume,no go,no_seal,4,V1,,pass,Ephys_171127_03_B01_M,http://lims2/drawing_tool?image_series=652952524
+171201,Tac1-IRES2-Cre;Sst-IRES-FlpO;Ai65-360614.05.02.01,2,n,,no_seal,1,V1,,fail,EPhys_171127_03_C03_M,
+171201,Htr3a-Cre_NO152;Ai14-362742.04.01.01,2,q - plume,,outside_out,1,V1,,pass,EPhys_171127_03_A05_M,http://lims2/drawing_tool?image_series=652952450
+171201,Htr3a-Cre_NO152;Ai14-362742.04.01.02,0.5,y,,nucleated,2,V1,,pass,EPhys_171127_03_A05_M,http://lims2/drawing_tool?image_series=652952450
+171201,Ndnf-IRES2-dgCre;Ai14-361703.04.01.01,0.5,q,,nucleated,1,V1,,pass,EPhys_171127_03_B03_M,http://lims2/drawing_tool?image_series=652952574
+171201,Ndnf-IRES2-dgCre;Ai14-361703.04.01.02,2,q - plume,,outside_out,2,V1,,fail,EPhys_171127_03_B03_M,http://lims2/drawing_tool?image_series=652952574
+171201,Ndnf-IRES2-dgCre;Ai14-361703.06.02.01,2,n,,partial_nucleated,1,V1,,fail,EPhys_171127_03_B05_M,
+171201,Ndnf-IRES2-dgCre;Ai14-361703.05.02.01,0.5,n,,outside_out,1,V1,,pass,Ephys_171127_03_C01_M,http://lims2/drawing_tool?image_series=652952650
+171201,Ndnf-IRES2-dgCre;Ai14-361703.05.02.02,2,q,,nucleated,2,V1,,pass,Ephys_171127_03_C01_M,http://lims2/drawing_tool?image_series=652952650
+171201,Ndnf-IRES2-dgCre;Ai14-361703.05.02.03,0.5,n,,outside_out,3,V1,,pass,Ephys_171127_03_C01_M,http://lims2/drawing_tool?image_series=652952650
+171204,Chrna2-Cre_OE25;Ai14-363000.04.01.01,0.5,n,,no_seal,1,V1,,fail,EPhys_171204_01_A01_M,
+171204,Chrna2-Cre_OE25;Ai14-363000.04.01.02,2,y -plume,,outside_out,2,V1,,fail,EPhys_171204_01_A01_M,
+171205,Chrna2-Cre_OE25;Ai14-362809.05.02.01,2,y,,nucleated,1,V1,,pass,EPhys_171204_01_B04_M,http://lims2/drawing_tool?image_series=656861294
+180216,Rbp4-Cre_KL100;Ai14-374885.07.02.01,1,y,,nucleated,1,LGN,,,EPhys_180212_03_C02_M,http://lims2/drawing_tool?image_series=667246080
+180216,Rbp4-Cre_KL100;Ai14-374885.07.02.02,0.5,q,,nucleated,2,LGN,,,EPhys_180212_03_C02_M,http://lims2/drawing_tool?image_series=667246080
+180216,Rbp4-Cre_KL100;Ai14-374885.07.02.03,1,y,,nucleated,3,LGN,,,EPhys_180212_03_C02_M,http://lims2/drawing_tool?image_series=667246080
+180216,Rbp4-Cre_KL100;Ai14-374885.07.02.04,0.5,y,,partial_nucleated,4,LGN,,,EPhys_180212_03_C02_M,http://lims2/drawing_tool?image_series=667246080
+180216,Cux2-CreERT2;Ai14-375864.06.02.01,0.5,y,,nucleated,1,LGN,,,EPhys_180212_03_C03_M,http://lims2/drawing_tool?image_series=667246677
+180216,Cux2-CreERT2;Ai14-375864.06.02.02,1,q,,nucleated,2,LGN,,,EPhys_180212_03_C03_M,http://lims2/drawing_tool?image_series=667246677
+180216,Cux2-CreERT2;Ai14-375864.06.02.03,0.5,y,,nucleated,3,LGN,,,EPhys_180212_03_C03_M,http://lims2/drawing_tool?image_series=667246677
+180219,Sst-IRES-Cre;Ai14-376198.04.02.01,1,y- plume,,partial_nucleated,1,V1,,,EPhys_180219_01_A02_M,http://lims2/drawing_tool?image_series=669787967
+180219,Sst-IRES-Cre;Ai14-376198.04.02.02,0.5,y -plume,,nucleated,2,V1,,,EPhys_180219_01_A02_M,http://lims2/drawing_tool?image_series=669787967
+180219,Htr3a-Cre_NO152;Ai14-376066.04.02.01,1,n - plume,,nucleated,1,V1,,,EPhys_180219_01_A04_M,http://lims2/drawing_tool?image_series=669788371
+180219,Htr3a-Cre_NO152;Ai14-376066.04.02.02,0.5,n- plume,,partial_nucleated,2,V1,,,EPhys_180219_01_A04_M,http://lims2/drawing_tool?image_series=669788371
+180219,Pvalb-IRES-Cre;Ai14-375847.03.02.01,1,q - plume,,partial_nucleated,1,V1,,,EPhys_180219_01_B02_M,http://lims2/drawing_tool?image_series=669788697
+180220,Sst-IRES-Cre;Ai14-376201.04.02.01,1,n - plume,,partial_nucleated,1,V1,,,EPhys_180219_01_B06_M,http://lims2/drawing_tool?image_series=669790035
+180220,Ntsr1-Cre_GN220;Ai14-376627.07.02.01,1,n,,nucleated,1,LGN,,,EPhys_180219_02_A01_M,http://lims2/drawing_tool?image_series=669796464
+180220,Ntsr1-Cre_GN220;Ai14-376627.07.02.02,0.5,n,,partial_nucleated,2,LGN,,,EPhys_180219_02_A01_M,http://lims2/drawing_tool?image_series=669796464
+180220,Ntsr1-Cre_GN220;Ai14-376627.07.02.03,1,n,,partial_nucleated,3,LGN,,,EPhys_180219_02_A01_M,http://lims2/drawing_tool?image_series=669796464
+180220,Ntsr1-Cre_GN220;Ai14-376627.07.02.04,0.5,n,,partial_nucleated,4,LGN,,,EPhys_180219_02_A01_M,http://lims2/drawing_tool?image_series=669796464
+180221,Sst-IRES-Cre;Ai14-376203.03.02.01,0.5,n,,partial_nucleated,1,V1,,,EPhys_180219_01_D01_M,http://lims2/drawing_tool?image_series=669791460
+180221,Sst-IRES-Cre;Ai14-376203.03.02.02,1,n- plume,,partial_nucleated,2,V1,,,EPhys_180219_01_D01_M,http://lims2/drawing_tool?image_series=669791460
+180221,Pvalb-IRES-Cre;Ai14-376970.04.02.01,0.5,n,,nucleated,1,V1,,,EPhys_180219_01_D04_M,http://lims2/drawing_tool?image_series=669796117
+180221,Pvalb-IRES-Cre;Ai14-376970.04.02.02,1,n,,outside_out,2,V1,,,EPhys_180219_01_D04_M,http://lims2/drawing_tool?image_series=669796117
+180223,Cux2-CreERT2;Ai14-376048.07.02.01,0.5,q,,nucleated,1,LGN,,,EPhys_180219_02_C01_M,http://lims2/drawing_tool?image_series=669801003
+180223,Cux2-CreERT2;Ai14-376048.07.02.02,1,q,,nucleated,2,LGN,,,EPhys_180219_02_C01_M,http://lims2/drawing_tool?image_series=669801003
+180223,Cux2-CreERT2;Ai14-376048.07.02.03,0.5,q,,no_seal,3,LGN,,,EPhys_180219_02_C01_M,http://lims2/drawing_tool?image_series=669801003
+180223,Tlx3-Cre_PL56;Ai14-375777.06.01.01,1,n,,no_seal,1,LGN,,,EPhys_180219_02_C04_M,http://lims2/drawing_tool?image_series=669805098
+180227,Sst-IRES-Cre;Ai14-376204.03.02.01,0.5,n,,nucleated,1,V1,,,EPhys_180226_01_C04_M,http://lims2/siv?sub_image=672147436
+180227,Sst-IRES-Cre;Ai14-376204.03.02.02,0.5,n,,outside_out,2,V1,long,,EPhys_180226_01_C04_M,http://lims2/siv?sub_image=672147436
+180227,Sst-IRES-Cre;Ai14-376204.03.02.03,1,y,,nucleated,3,V1,,,EPhys_180226_01_C04_M,http://lims2/siv?sub_image=672147436
+180227,Ndnf-IRES2-dgCre;Ai14-377313.04.02.01,1,q,,outside_out,1,V1,,,EPhys_180226_01_D06_M,http://lims2/siv?sub_image=672152280
+180227,Ndnf-IRES2-dgCre;Ai14-377313.04.02.02,0.5,n,,partial_nucleated,2,V1,,,EPhys_180226_01_D06_M,http://lims2/siv?sub_image=672152280
+180228,Sst-IRES-Cre;Ai14-376205.04.02.01,1,,,outside_out,1,V1,,,EPhys_180226_03_B03_M,
+180228,Sst-IRES-Cre;Ai14-376205.04.02.02,0.5,,,no_seal,2,V1,long,,EPhys_180226_03_B03_M,
+180228,Vip-IRES-Cre;Ai14-377300.03.02.01,1,,,nucleated,1,V1,,,EPhys_180226_03_D03_M,
+180228,Vip-IRES-Cre;Ai14-377300.03.02.02,0.5,,,nucleated,2,V1,long,,EPhys_180226_03_D03_M,
+180228,Vip-IRES-Cre;Ai14-377300.03.02.03,0.5,,,nucleated,3,V1,,,EPhys_180226_03_D03_M,
+180302,Sst-IRES-Cre;Ai14-376206.04.02.01,0.5,,,nucleated,1,V1,,,EPhys_180226_04_A05_M,http://lims2/siv?sub_image=672166109
+180302,Sst-IRES-Cre;Ai14-376206.04.02.02,1,,,nucleated,2,V1,,,EPhys_180226_04_A05_M,http://lims2/siv?sub_image=672166109
+180302,Sst-IRES-Cre;Ai14-376206.04.02.03,0.5,,,nucleated,3,V1,long,,EPhys_180226_04_A05_M,http://lims2/siv?sub_image=672166109
+180302,Sst-IRES-Cre;Ai14-376837.04.02.01,0.5,,,nucleated,1,V1,,,EPhys_180226_04_B06_M,
+180302,Sst-IRES-Cre;Ai14-376837.04.02.02,1,,,nucleated,2,V1,,,EPhys_180226_04_B06_M,
+180302,Sst-IRES-Cre;Ai14-376837.04.02.03,0.5,,,outside_out,3,V1,long,,EPhys_180226_04_B06_M,
